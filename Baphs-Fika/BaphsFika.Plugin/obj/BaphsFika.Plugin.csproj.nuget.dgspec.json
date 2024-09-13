@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Users\\Baph\\Desktop\\Baphs-Fika\\BaphsFika.Plugin\\BaphsFika.Plugin.csproj": {}
+  },
+  "projects": {
+    "F:\\Users\\Baph\\Desktop\\Baphs-Fika\\BaphsFika.Plugin\\BaphsFika.Plugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Users\\Baph\\Desktop\\Baphs-Fika\\BaphsFika.Plugin\\BaphsFika.Plugin.csproj",
+        "projectName": "BaphsFika.Plugin",
+        "projectPath": "F:\\Users\\Baph\\Desktop\\Baphs-Fika\\BaphsFika.Plugin\\BaphsFika.Plugin.csproj",
+        "packagesPath": "C:\\Users\\Baph\\.nuget\\packages\\",
+        "outputPath": "F:\\Users\\Baph\\Desktop\\Baphs-Fika\\BaphsFika.Plugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Baph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "LiteNetLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
